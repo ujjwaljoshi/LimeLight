@@ -1,0 +1,10 @@
+C:\Users\joshi088\AppData\Local\Temporary Projects\LimeLight\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\joshi088\AppData\Local\Temporary Projects\LimeLight\bin\Debug\LimeLight.exe
+C:\Users\joshi088\AppData\Local\Temporary Projects\LimeLight\bin\Debug\LimeLight.pdb
+C:\Users\joshi088\AppData\Local\Temporary Projects\LimeLight\obj\x86\Debug\LimeLight.exe
+C:\Users\joshi088\AppData\Local\Temporary Projects\LimeLight\obj\x86\Debug\LimeLight.pdb
+C:\Users\joshi088\Dropbox\Course\net-project\LimeLight\LimeLight\bin\Debug\LimeLight.exe
+C:\Users\joshi088\Dropbox\Course\net-project\LimeLight\LimeLight\bin\Debug\LimeLight.pdb
+C:\Users\joshi088\Dropbox\Course\net-project\LimeLight\LimeLight\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\joshi088\Dropbox\Course\net-project\LimeLight\LimeLight\obj\x86\Debug\LimeLight.exe
+C:\Users\joshi088\Dropbox\Course\net-project\LimeLight\LimeLight\obj\x86\Debug\LimeLight.pdb

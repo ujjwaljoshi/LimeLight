@@ -1,0 +1,7 @@
+C:\Users\joshi088\AppData\Local\Temporary Projects\LimeLight\bin\Release\LimeLight.exe
+C:\Users\joshi088\AppData\Local\Temporary Projects\LimeLight\bin\Release\LimeLight.pdb
+C:\Users\joshi088\AppData\Local\Temporary Projects\LimeLight\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\joshi088\AppData\Local\Temporary Projects\LimeLight\obj\x86\Release\LimeLight.exe
+C:\Users\joshi088\AppData\Local\Temporary Projects\LimeLight\obj\x86\Release\LimeLight.pdb
+C:\Users\joshi088\Dropbox\Course\net-project\LimeLight\LimeLight\obj\x86\Release\LimeLight.exe
+C:\Users\joshi088\Dropbox\Course\net-project\LimeLight\LimeLight\obj\x86\Release\LimeLight.pdb
